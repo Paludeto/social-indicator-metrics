@@ -1,0 +1,8 @@
+,education_expenses,education_expenses,health_expenses,health_expenses,literacy_rate,literacy_rate,mortality_rate,mortality_rate
+,mean,std,mean,std,mean,std,mean,std
+region,,,,,,,,
+Europa,4.42,0.88,5.75,1.18,98.95,1.22,13.64,3.2
+América,4.27,1.64,4.55,2.25,93.47,6.81,7.57,1.45
+Ásia,3.56,1.47,2.81,1.77,90.18,14.03,6.1,2.55
+África,3.91,1.83,1.99,1.31,69.16,19.09,8.21,2.09
+Oceania,7.09,4.07,4.78,3.31,90.9,11.46,6.81,2.09

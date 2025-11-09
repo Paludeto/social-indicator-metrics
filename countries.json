@@ -2,6 +2,8 @@
     {
         "iso2_id": "AE",
         "name": "Emirados Árabes Unidos",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "3.89",
         "health_expenses": "3.40",
         "literacy_rate": "98",
@@ -10,6 +12,8 @@
     {
         "iso2_id": "AF",
         "name": "Afeganistão",
+        "region": "Ásia",
+        "subregion": "Ásia meridional (Sul da Ásia)",
         "education_expenses": "2.86",
         "health_expenses": "0.72",
         "literacy_rate": "37",
@@ -18,6 +22,8 @@
     {
         "iso2_id": "AG",
         "name": "Antígua e Barbuda",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "3.65",
         "health_expenses": "3.93",
         "literacy_rate": "98.95",
@@ -26,6 +32,8 @@
     {
         "iso2_id": "AL",
         "name": "Albânia",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "2.74",
         "health_expenses": "2.88",
         "literacy_rate": "98.5",
@@ -34,6 +42,8 @@
     {
         "iso2_id": "AM",
         "name": "Armênia",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "0.24",
         "health_expenses": "2.19",
         "literacy_rate": "100",
@@ -42,6 +52,8 @@
     {
         "iso2_id": "AO",
         "name": "Angola",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.33",
         "health_expenses": "1.71",
         "literacy_rate": "72.40",
@@ -50,6 +62,8 @@
     {
         "iso2_id": "AR",
         "name": "Argentina",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "4.81",
         "health_expenses": "6.14",
         "literacy_rate": "99.00",
@@ -58,6 +72,8 @@
     {
         "iso2_id": "AZ",
         "name": "Azerbaijão",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "3.58",
         "health_expenses": "1.49",
         "literacy_rate": "100",
@@ -66,6 +82,8 @@
     {
         "iso2_id": "BA",
         "name": "Bósnia e Herzegovina",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "4.14",
         "health_expenses": "6.53",
         "literacy_rate": "98.30",
@@ -74,6 +92,8 @@
     {
         "iso2_id": "BB",
         "name": "Barbados",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "4.04",
         "health_expenses": "4.38",
         "literacy_rate": "99.60",
@@ -82,6 +102,8 @@
     {
         "iso2_id": "BD",
         "name": "Bangladesh",
+        "region": "Ásia",
+        "subregion": "Ásia meridional (Sul da Ásia)",
         "education_expenses": "1.78",
         "health_expenses": "0.40",
         "literacy_rate": "76",
@@ -90,6 +112,8 @@
     {
         "iso2_id": "BF",
         "name": "Burkina Faso",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "5.28",
         "health_expenses": "2.73",
         "literacy_rate": "34.49",
@@ -98,6 +122,8 @@
     {
         "iso2_id": "BG",
         "name": "Bulgária",
+        "region": "Europa",
+        "subregion": "Europa oriental (Leste da Europa)",
         "education_expenses": "4.73",
         "health_expenses": "5.38",
         "literacy_rate": "98.42",
@@ -106,6 +132,8 @@
     {
         "iso2_id": "BH",
         "name": "Barein",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "1.99",
         "health_expenses": "2.81",
         "literacy_rate": "98",
@@ -114,6 +142,8 @@
     {
         "iso2_id": "BI",
         "name": "Burundi",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "4.82",
         "health_expenses": "2.23",
         "literacy_rate": "75.54",
@@ -122,6 +152,8 @@
     {
         "iso2_id": "BJ",
         "name": "Benin",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "3.38",
         "health_expenses": "0.32",
         "literacy_rate": "47.10",
@@ -130,6 +162,8 @@
     {
         "iso2_id": "BN",
         "name": "Brunei",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "4.43",
         "health_expenses": "2.06",
         "literacy_rate": "97.59",
@@ -138,6 +172,8 @@
     {
         "iso2_id": "BO",
         "name": "Bolívia",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "7.58",
         "health_expenses": "5.88",
         "literacy_rate": "94",
@@ -146,6 +182,8 @@
     {
         "iso2_id": "BR",
         "name": "Brasil",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "5.50",
         "health_expenses": "4.50",
         "literacy_rate": "94.69",
@@ -154,6 +192,8 @@
     {
         "iso2_id": "BT",
         "name": "Butão",
+        "region": "Ásia",
+        "subregion": "Ásia meridional (Sul da Ásia)",
         "education_expenses": "5.85",
         "health_expenses": "2.21",
         "literacy_rate": "72.10",
@@ -162,6 +202,8 @@
     {
         "iso2_id": "BW",
         "name": "Botsuana",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "8.06",
         "health_expenses": "4.82",
         "literacy_rate": "86.82",
@@ -170,6 +212,8 @@
     {
         "iso2_id": "BY",
         "name": "Belarus",
+        "region": "Europa",
+        "subregion": "Europa oriental (Leste da Europa)",
         "education_expenses": "4.95",
         "health_expenses": "4.87",
         "literacy_rate": "100",
@@ -178,6 +222,8 @@
     {
         "iso2_id": "BZ",
         "name": "Belize",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "4.26",
         "health_expenses": "3.43",
         "literacy_rate": "90.92",
@@ -186,6 +232,8 @@
     {
         "iso2_id": "CD",
         "name": "República Democrática do Congo",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "3.00",
         "health_expenses": "0.63",
         "literacy_rate": "80.54",
@@ -194,6 +242,8 @@
     {
         "iso2_id": "CF",
         "name": "República Centro-Africana",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.12",
         "health_expenses": "1.26",
         "literacy_rate": "37.49",
@@ -202,6 +252,8 @@
     {
         "iso2_id": "CG",
         "name": "República do Congo",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.95",
         "health_expenses": "1.90",
         "literacy_rate": "80.61",
@@ -210,6 +262,8 @@
     {
         "iso2_id": "CI",
         "name": "Costa do Marfim",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "3.43",
         "health_expenses": "1.03",
         "literacy_rate": "50.00",
@@ -218,6 +272,8 @@
     {
         "iso2_id": "CL",
         "name": "Chile",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "5.00",
         "health_expenses": "4.92",
         "literacy_rate": "97.16",
@@ -226,6 +282,8 @@
     {
         "iso2_id": "CM",
         "name": "Camarões",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.62",
         "health_expenses": "0.48",
         "literacy_rate": "78.23",
@@ -234,6 +292,8 @@
     {
         "iso2_id": "CN",
         "name": "China",
+        "region": "Ásia",
+        "subregion": "Ásia oriental (Leste da Ásia)",
         "education_expenses": "4.02",
         "health_expenses": "2.91",
         "literacy_rate": "97",
@@ -242,6 +302,8 @@
     {
         "iso2_id": "CO",
         "name": "Colômbia",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "4.93",
         "health_expenses": "6.55",
         "literacy_rate": "96",
@@ -250,6 +312,8 @@
     {
         "iso2_id": "CR",
         "name": "Costa Rica",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "6.25",
         "health_expenses": "5.30",
         "literacy_rate": "98.04",
@@ -258,6 +322,8 @@
     {
         "iso2_id": "CU",
         "name": "Cuba",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "9.39",
         "health_expenses": "12.63",
         "literacy_rate": "99.67",
@@ -266,6 +332,8 @@
     {
         "iso2_id": "CV",
         "name": "Cabo Verde",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "4.67",
         "health_expenses": "4.71",
         "literacy_rate": "91",
@@ -274,6 +342,8 @@
     {
         "iso2_id": "CY",
         "name": "Chipre",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "5.24",
         "health_expenses": "7.99",
         "literacy_rate": "99.36",
@@ -282,6 +352,8 @@
     {
         "iso2_id": "DO",
         "name": "República Dominicana",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "3.94",
         "health_expenses": "3.29",
         "literacy_rate": "95.5",
@@ -290,6 +362,8 @@
     {
         "iso2_id": "DZ",
         "name": "Argélia",
+        "region": "África",
+        "subregion": "África setentrional (Norte da África)",
         "education_expenses": "5.61",
         "health_expenses": "3.27",
         "literacy_rate": "81.41",
@@ -298,6 +372,8 @@
     {
         "iso2_id": "EC",
         "name": "Equador",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "3.89",
         "health_expenses": "5.28",
         "literacy_rate": "94",
@@ -306,6 +382,8 @@
     {
         "iso2_id": "EE",
         "name": "Estônia",
+        "region": "Europa",
+        "subregion": "Europa setentrional (Norte da Europa)",
         "education_expenses": "5.26",
         "health_expenses": "5.71",
         "literacy_rate": "99.87",
@@ -314,6 +392,8 @@
     {
         "iso2_id": "EG",
         "name": "Egito",
+        "region": "África",
+        "subregion": "África setentrional (Norte da África)",
         "education_expenses": "2.48",
         "health_expenses": "1.74",
         "literacy_rate": "74.5",
@@ -322,6 +402,8 @@
     {
         "iso2_id": "ER",
         "name": "Eritreia",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.13",
         "health_expenses": "0.88",
         "literacy_rate": "76.57",
@@ -330,6 +412,8 @@
     {
         "iso2_id": "ES",
         "name": "Espanha",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "4.32",
         "health_expenses": "7.69",
         "literacy_rate": "99",
@@ -338,6 +422,8 @@
     {
         "iso2_id": "ET",
         "name": "Etiópia",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "3.74",
         "health_expenses": "0.98",
         "literacy_rate": "51.77",
@@ -346,6 +432,8 @@
     {
         "iso2_id": "GA",
         "name": "Gabão",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.21",
         "health_expenses": "1.59",
         "literacy_rate": "85.69",
@@ -354,6 +442,8 @@
     {
         "iso2_id": "GD",
         "name": "Granada",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "3.94",
         "health_expenses": "2.22",
         "literacy_rate": "98.60",
@@ -362,6 +452,8 @@
     {
         "iso2_id": "GE",
         "name": "Geórgia",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "3.74",
         "health_expenses": "3.11",
         "literacy_rate": "100",
@@ -370,6 +462,8 @@
     {
         "iso2_id": "GH",
         "name": "Gana",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.91",
         "health_expenses": "2.24",
         "literacy_rate": "80.38",
@@ -378,6 +472,8 @@
     {
         "iso2_id": "GM",
         "name": "Gâmbia",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.70",
         "health_expenses": "1.62",
         "literacy_rate": "58.67",
@@ -386,6 +482,8 @@
     {
         "iso2_id": "GN",
         "name": "Guiné",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "1.99",
         "health_expenses": "0.69",
         "literacy_rate": "45.33",
@@ -394,6 +492,8 @@
     {
         "iso2_id": "GR",
         "name": "Grécia",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "4.08",
         "health_expenses": "5.43",
         "literacy_rate": "97.94",
@@ -402,6 +502,8 @@
     {
         "iso2_id": "GT",
         "name": "Guatemala",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "3.18",
         "health_expenses": "2.33",
         "literacy_rate": "83.03",
@@ -410,6 +512,8 @@
     {
         "iso2_id": "GW",
         "name": "Guiné-Bissau",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.71",
         "health_expenses": "1.14",
         "literacy_rate": "53.90",
@@ -418,6 +522,8 @@
     {
         "iso2_id": "GY",
         "name": "Guiana",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "4.45",
         "health_expenses": "3.34",
         "literacy_rate": "90.03",
@@ -426,6 +532,8 @@
     {
         "iso2_id": "HN",
         "name": "Honduras",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "4.05",
         "health_expenses": "3.44",
         "literacy_rate": "89",
@@ -434,6 +542,8 @@
     {
         "iso2_id": "HR",
         "name": "Croácia",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "4.06",
         "health_expenses": "6.81",
         "literacy_rate": "99.45",
@@ -442,6 +552,8 @@
     {
         "iso2_id": "HT",
         "name": "Haiti",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "1.27",
         "health_expenses": "0.43",
         "literacy_rate": "68.01",
@@ -450,6 +562,8 @@
     {
         "iso2_id": "HU",
         "name": "Hungria",
+        "region": "Europa",
+        "subregion": "Europa oriental (Leste da Europa)",
         "education_expenses": "4.68",
         "health_expenses": "5.33",
         "literacy_rate": "99.10",
@@ -458,6 +572,8 @@
     {
         "iso2_id": "ID",
         "name": "Indonésia",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "1.28",
         "health_expenses": "2.20",
         "literacy_rate": "96",
@@ -466,6 +582,8 @@
     {
         "iso2_id": "IN",
         "name": "Índia",
+        "region": "Ásia",
+        "subregion": "Ásia meridional (Sul da Ásia)",
         "education_expenses": "4.12",
         "health_expenses": "1.12",
         "literacy_rate": "77",
@@ -474,6 +592,8 @@
     {
         "iso2_id": "IQ",
         "name": "Iraque",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "4.71",
         "health_expenses": "2.59",
         "literacy_rate": "86",
@@ -482,6 +602,8 @@
     {
         "iso2_id": "IR",
         "name": "Irã",
+        "region": "Ásia",
+        "subregion": "Ásia meridional (Sul da Ásia)",
         "education_expenses": "2.93",
         "health_expenses": "3.19",
         "literacy_rate": "88.96",
@@ -490,6 +612,8 @@
     {
         "iso2_id": "IT",
         "name": "Itália",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "4.22",
         "health_expenses": "7.08",
         "literacy_rate": "99",
@@ -498,6 +622,8 @@
     {
         "iso2_id": "JM",
         "name": "Jamaica",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "5.65",
         "health_expenses": "5.12",
         "literacy_rate": "88.10",
@@ -506,6 +632,8 @@
     {
         "iso2_id": "JO",
         "name": "Jordânia",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "3.16",
         "health_expenses": "2.59",
         "literacy_rate": "95",
@@ -514,6 +642,8 @@
     {
         "iso2_id": "KE",
         "name": "Quênia",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "3.96",
         "health_expenses": "2.22",
         "literacy_rate": "82.88",
@@ -522,6 +652,8 @@
     {
         "iso2_id": "KG",
         "name": "Quirguistão",
+        "region": "Ásia",
+        "subregion": "Ásia central",
         "education_expenses": "6.83",
         "health_expenses": "2.91",
         "literacy_rate": "99.60",
@@ -530,6 +662,8 @@
     {
         "iso2_id": "KH",
         "name": "Camboja",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "2.95",
         "health_expenses": "2.00",
         "literacy_rate": "83.78",
@@ -538,6 +672,8 @@
     {
         "iso2_id": "KI",
         "name": "Kiribati",
+        "region": "Oceania",
+        "subregion": "Micronésia",
         "education_expenses": "14.20",
         "health_expenses": "11.12",
         "literacy_rate": "97.96",
@@ -546,6 +682,8 @@
     {
         "iso2_id": "KM",
         "name": "Comores",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.43",
         "health_expenses": "0.94",
         "literacy_rate": "61.71",
@@ -554,6 +692,8 @@
     {
         "iso2_id": "KR",
         "name": "República da Coreia",
+        "region": "Ásia",
+        "subregion": "Ásia oriental (Leste da Ásia)",
         "education_expenses": "4.87",
         "health_expenses": "5.97",
         "literacy_rate": "98.80",
@@ -562,6 +702,8 @@
     {
         "iso2_id": "KW",
         "name": "Kuwait",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "5.03",
         "health_expenses": "5.19",
         "literacy_rate": "96",
@@ -570,6 +712,8 @@
     {
         "iso2_id": "KZ",
         "name": "Cazaquistão",
+        "region": "Ásia",
+        "subregion": "Ásia central",
         "education_expenses": "4.46",
         "health_expenses": "2.56",
         "literacy_rate": "99.80",
@@ -578,6 +722,8 @@
     {
         "iso2_id": "LA",
         "name": "Laos",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "1.23",
         "health_expenses": "0.72",
         "literacy_rate": "87.52",
@@ -586,6 +732,8 @@
     {
         "iso2_id": "LB",
         "name": "Líbano",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "1.67",
         "health_expenses": "2.90",
         "literacy_rate": "95.30",
@@ -594,6 +742,8 @@
     {
         "iso2_id": "LK",
         "name": "Sri Lanka",
+        "region": "Ásia",
+        "subregion": "Ásia meridional (Sul da Ásia)",
         "education_expenses": "1.83",
         "health_expenses": "1.89",
         "literacy_rate": "92",
@@ -602,6 +752,8 @@
     {
         "iso2_id": "LR",
         "name": "Libéria",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.28",
         "health_expenses": "1.09",
         "literacy_rate": "48.30",
@@ -610,6 +762,8 @@
     {
         "iso2_id": "LS",
         "name": "Lesoto",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "6.69",
         "health_expenses": "4.20",
         "literacy_rate": "82.01",
@@ -618,6 +772,8 @@
     {
         "iso2_id": "LT",
         "name": "Lituânia",
+        "region": "Europa",
+        "subregion": "Europa setentrional (Norte da Europa)",
         "education_expenses": "4.25",
         "health_expenses": "5.26",
         "literacy_rate": "99.83",
@@ -626,6 +782,8 @@
     {
         "iso2_id": "LV",
         "name": "Letônia",
+        "region": "Europa",
+        "subregion": "Europa setentrional (Norte da Europa)",
         "education_expenses": "4.62",
         "health_expenses": "6.27",
         "literacy_rate": "99.89",
@@ -634,6 +792,8 @@
     {
         "iso2_id": "MA",
         "name": "Marrocos",
+        "region": "África",
+        "subregion": "África setentrional (Norte da África)",
         "education_expenses": "6.02",
         "health_expenses": "2.23",
         "literacy_rate": "77.35",
@@ -642,6 +802,8 @@
     {
         "iso2_id": "MD",
         "name": "Moldávia",
+        "region": "Europa",
+        "subregion": "Europa oriental (Leste da Europa)",
         "education_expenses": "6.25",
         "health_expenses": "5.06",
         "literacy_rate": "99.60",
@@ -650,6 +812,8 @@
     {
         "iso2_id": "MG",
         "name": "Madagascar",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "3.14",
         "health_expenses": "0.74",
         "literacy_rate": "77.48",
@@ -658,6 +822,8 @@
     {
         "iso2_id": "MH",
         "name": "Ilhas Marshall",
+        "region": "Oceania",
+        "subregion": "Micronésia",
         "education_expenses": "7.54",
         "health_expenses": "5.32",
         "literacy_rate": "98",
@@ -666,6 +832,8 @@
     {
         "iso2_id": "MK",
         "name": "Macedônia do Norte",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "3.30",
         "health_expenses": "4.64",
         "literacy_rate": "97.80",
@@ -674,6 +842,8 @@
     {
         "iso2_id": "ML",
         "name": "Mali",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "4.04",
         "health_expenses": "1.31",
         "literacy_rate": "31",
@@ -682,6 +852,8 @@
     {
         "iso2_id": "MM",
         "name": "Mianmar",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "2.00",
         "health_expenses": "1.06",
         "literacy_rate": "89",
@@ -690,6 +862,8 @@
     {
         "iso2_id": "MN",
         "name": "Mongólia",
+        "region": "Ásia",
+        "subregion": "Ásia oriental (Leste da Ásia)",
         "education_expenses": "3.74",
         "health_expenses": "4.53",
         "literacy_rate": "99",
@@ -698,6 +872,8 @@
     {
         "iso2_id": "MR",
         "name": "Mauritânia",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.65",
         "health_expenses": "1.60",
         "literacy_rate": "66.96",
@@ -706,6 +882,8 @@
     {
         "iso2_id": "MT",
         "name": "Malta",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "5.36",
         "health_expenses": "7.13",
         "literacy_rate": "94.94",
@@ -714,6 +892,8 @@
     {
         "iso2_id": "MU",
         "name": "Maurício",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "4.57",
         "health_expenses": "3.14",
         "literacy_rate": "92.15",
@@ -722,6 +902,8 @@
     {
         "iso2_id": "MV",
         "name": "Maldivas",
+        "region": "Ásia",
+        "subregion": "Ásia meridional (Sul da Ásia)",
         "education_expenses": "5.17",
         "health_expenses": "7.18",
         "literacy_rate": "97.86",
@@ -730,6 +912,8 @@
     {
         "iso2_id": "MW",
         "name": "Malauí",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.91",
         "health_expenses": "1.36",
         "literacy_rate": "68.08",
@@ -738,6 +922,8 @@
     {
         "iso2_id": "MX",
         "name": "México",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "4.25",
         "health_expenses": "3.05",
         "literacy_rate": "95",
@@ -746,6 +932,8 @@
     {
         "iso2_id": "MY",
         "name": "Malásia",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "3.63",
         "health_expenses": "2.46",
         "literacy_rate": "96",
@@ -754,6 +942,8 @@
     {
         "iso2_id": "MZ",
         "name": "Moçambique",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "6.16",
         "health_expenses": "2.57",
         "literacy_rate": "63.42",
@@ -762,6 +952,8 @@
     {
         "iso2_id": "NA",
         "name": "Namíbia",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "9.04",
         "health_expenses": "4.45",
         "literacy_rate": "92.25",
@@ -770,6 +962,8 @@
     {
         "iso2_id": "NE",
         "name": "Niger",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "4.10",
         "health_expenses": "2.12",
         "literacy_rate": "38.10",
@@ -778,6 +972,8 @@
     {
         "iso2_id": "NG",
         "name": "Nigéria",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "0.35",
         "health_expenses": "0.54",
         "literacy_rate": "63.16",
@@ -786,6 +982,8 @@
     {
         "iso2_id": "NI",
         "name": "Nicarágua",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "3.79",
         "health_expenses": "6.14",
         "literacy_rate": "82.61",
@@ -794,6 +992,8 @@
     {
         "iso2_id": "NP",
         "name": "Nepal",
+        "region": "Ásia",
+        "subregion": "Ásia meridional (Sul da Ásia)",
         "education_expenses": "3.68",
         "health_expenses": "1.8",
         "literacy_rate": "71.15",
@@ -802,6 +1002,8 @@
     {
         "iso2_id": "OM",
         "name": "Omã",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "4.20",
         "health_expenses": "3.81",
         "literacy_rate": "97",
@@ -810,6 +1012,8 @@
     {
         "iso2_id": "PA",
         "name": "Panamá",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "3.37",
         "health_expenses": "5.38",
         "literacy_rate": "96",
@@ -818,6 +1022,8 @@
     {
         "iso2_id": "PE",
         "name": "Peru",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "4.24",
         "health_expenses": "3.99",
         "literacy_rate": "94",
@@ -826,6 +1032,8 @@
     {
         "iso2_id": "PG",
         "name": "Papua Nova Guiné",
+        "region": "Oceania",
+        "subregion": "Melanésia",
         "education_expenses": "1.35",
         "health_expenses": "1.16",
         "literacy_rate": "70.06",
@@ -834,6 +1042,8 @@
     {
         "iso2_id": "PH",
         "name": "Filipinas",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "3.62",
         "health_expenses": "2.13",
         "literacy_rate": "98",
@@ -842,6 +1052,8 @@
     {
         "iso2_id": "PK",
         "name": "Paquistão",
+        "region": "Ásia",
+        "subregion": "Ásia meridional (Sul da Ásia)",
         "education_expenses": "1.87",
         "health_expenses": "0.84",
         "literacy_rate": "58",
@@ -850,6 +1062,8 @@
     {
         "iso2_id": "PL",
         "name": "Polônia",
+        "region": "Europa",
+        "subregion": "Europa oriental (Leste da Europa)",
         "education_expenses": "4.67",
         "health_expenses": "4.64",
         "literacy_rate": "99.80",
@@ -858,6 +1072,8 @@
     {
         "iso2_id": "PT",
         "name": "Portugal",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "4.78",
         "health_expenses": "7.03",
         "literacy_rate": "96.78",
@@ -866,6 +1082,8 @@
     {
         "iso2_id": "PW",
         "name": "Palau",
+        "region": "Oceania",
+        "subregion": "Micronésia",
         "education_expenses": "3.44",
         "health_expenses": "7.40",
         "literacy_rate": "97",
@@ -874,6 +1092,8 @@
     {
         "iso2_id": "PY",
         "name": "Paraguai",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "3.41",
         "health_expenses": "4.47",
         "literacy_rate": "95",
@@ -882,6 +1102,8 @@
     {
         "iso2_id": "QA",
         "name": "Catar",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "3.23",
         "health_expenses": "2.46",
         "literacy_rate": "93.46",
@@ -890,6 +1112,8 @@
     {
         "iso2_id": "RO",
         "name": "Romênia",
+        "region": "Europa",
+        "subregion": "Europa oriental (Leste da Europa)",
         "education_expenses": "3.32",
         "health_expenses": "4.9",
         "literacy_rate": "99",
@@ -898,6 +1122,8 @@
     {
         "iso2_id": "RS",
         "name": "Sérvia",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "3.24",
         "health_expenses": "6.26",
         "literacy_rate": "99",
@@ -906,6 +1132,8 @@
     {
         "iso2_id": "RU",
         "name": "Rússia (Federação Russa)",
+        "region": "Europa",
+        "subregion": "Europa oriental (Leste da Europa)",
         "education_expenses": "4.05",
         "health_expenses": "5.26",
         "literacy_rate": "100",
@@ -914,6 +1142,8 @@
     {
         "iso2_id": "RW",
         "name": "Ruanda",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "4.92",
         "health_expenses": "2.99",
         "literacy_rate": "79",
@@ -922,6 +1152,8 @@
     {
         "iso2_id": "SA",
         "name": "Arábia Saudita",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "5.11",
         "health_expenses": "4.59",
         "literacy_rate": "98",
@@ -930,6 +1162,8 @@
     {
         "iso2_id": "SB",
         "name": "Ilhas Salomão",
+        "region": "Oceania",
+        "subregion": "Melanésia",
         "education_expenses": "8.29",
         "health_expenses": "3.33",
         "literacy_rate": "76.60",
@@ -938,6 +1172,8 @@
     {
         "iso2_id": "SC",
         "name": "Seichelles",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "4.74",
         "health_expenses": "4.02",
         "literacy_rate": "96.20",
@@ -946,6 +1182,8 @@
     {
         "iso2_id": "SD",
         "name": "Sudão",
+        "region": "África",
+        "subregion": "África setentrional (Norte da África)",
         "education_expenses": "2.02",
         "health_expenses": "0.77",
         "literacy_rate": "60.70",
@@ -954,6 +1192,8 @@
     {
         "iso2_id": "SG",
         "name": "Singapura",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "2.19",
         "health_expenses": "3.51",
         "literacy_rate": "98",
@@ -962,6 +1202,8 @@
     {
         "iso2_id": "SI",
         "name": "Eslovênia",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "5.37",
         "health_expenses": "6.94",
         "literacy_rate": "99.70",
@@ -970,6 +1212,8 @@
     {
         "iso2_id": "SL",
         "name": "Serra Leoa",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "6.79",
         "health_expenses": "1.94",
         "literacy_rate": "48.64",
@@ -978,6 +1222,8 @@
     {
         "iso2_id": "SM",
         "name": "San Marino",
+        "region": "Europa",
+        "subregion": "Europa meridional  (Sul da Europa)",
         "education_expenses": "3.43",
         "health_expenses": "7.03",
         "literacy_rate": "100",
@@ -986,6 +1232,8 @@
     {
         "iso2_id": "SN",
         "name": "Senegal",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "5.99",
         "health_expenses": "1.12",
         "literacy_rate": "57.67",
@@ -994,6 +1242,8 @@
     {
         "iso2_id": "SR",
         "name": "Suriname",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "2.87",
         "health_expenses": "3.33",
         "literacy_rate": "95",
@@ -1002,6 +1252,8 @@
     {
         "iso2_id": "SS",
         "name": "Sudão do Sul",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "1.57",
         "health_expenses": "0.93",
         "literacy_rate": "34.52",
@@ -1010,6 +1262,8 @@
     {
         "iso2_id": "ST",
         "name": "São Tomé e Príncipe",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "5.16",
         "health_expenses": "3.35",
         "literacy_rate": "93.75",
@@ -1018,6 +1272,8 @@
     {
         "iso2_id": "SV",
         "name": "El Salvador",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "3.17",
         "health_expenses": "6.40",
         "literacy_rate": "90",
@@ -1026,6 +1282,8 @@
     {
         "iso2_id": "SY",
         "name": "Síria",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "5.13",
         "health_expenses": "1.38",
         "literacy_rate": "94",
@@ -1034,6 +1292,8 @@
     {
         "iso2_id": "SZ",
         "name": "Eswatini",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "6.31",
         "health_expenses": "3.73",
         "literacy_rate": "90.75",
@@ -1042,6 +1302,8 @@
     {
         "iso2_id": "TD",
         "name": "Chade",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.54",
         "health_expenses": "0.90",
         "literacy_rate": "27.28",
@@ -1050,6 +1312,8 @@
     {
         "iso2_id": "TG",
         "name": "Togo",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "3.80",
         "health_expenses": "0.55",
         "literacy_rate": "67",
@@ -1058,6 +1322,8 @@
     {
         "iso2_id": "TH",
         "name": "Tailândia",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "2.52",
         "health_expenses": "3.63",
         "literacy_rate": "91.10",
@@ -1066,6 +1332,8 @@
     {
         "iso2_id": "TJ",
         "name": "Tadjiquistão",
+        "region": "Ásia",
+        "subregion": "Ásia central",
         "education_expenses": "5.81",
         "health_expenses": "1.94",
         "literacy_rate": "99.80",
@@ -1074,6 +1342,8 @@
     {
         "iso2_id": "TL",
         "name": "Timor-Leste",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "2.97",
         "health_expenses": "7.26",
         "literacy_rate": "69.90",
@@ -1082,6 +1352,8 @@
     {
         "iso2_id": "TM",
         "name": "Turcomenistão",
+        "region": "Ásia",
+        "subregion": "Ásia central",
         "education_expenses": "2.75",
         "health_expenses": "0.89",
         "literacy_rate": "99.70",
@@ -1090,6 +1362,8 @@
     {
         "iso2_id": "TN",
         "name": "Tunísia",
+        "region": "África",
+        "subregion": "África setentrional (Norte da África)",
         "education_expenses": "6.73",
         "health_expenses": "4.13",
         "literacy_rate": "85.21",
@@ -1098,6 +1372,8 @@
     {
         "iso2_id": "TO",
         "name": "Tonga",
+        "region": "Oceania",
+        "subregion": "Polinésia",
         "education_expenses": "5.15",
         "health_expenses": "3.62",
         "literacy_rate": "99.40",
@@ -1106,6 +1382,8 @@
     {
         "iso2_id": "TR",
         "name": "Turquia",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "2.61",
         "health_expenses": "3.6",
         "literacy_rate": "97",
@@ -1114,6 +1392,8 @@
     {
         "iso2_id": "TT",
         "name": "Trinidad e Tobago",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "2.88",
         "health_expenses": "3.32",
         "literacy_rate": "98.70",
@@ -1122,6 +1402,8 @@
     {
         "iso2_id": "TZ",
         "name": "Tanzânia",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "3.26",
         "health_expenses": "0.91",
         "literacy_rate": "82.02",
@@ -1130,6 +1412,8 @@
     {
         "iso2_id": "UA",
         "name": "Ucrânia",
+        "region": "Europa",
+        "subregion": "Europa oriental (Leste da Europa)",
         "education_expenses": "5.93",
         "health_expenses": "4.09",
         "literacy_rate": "100",
@@ -1138,6 +1422,8 @@
     {
         "iso2_id": "UG",
         "name": "Uganda",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.55",
         "health_expenses": "1.05",
         "literacy_rate": "80.59",
@@ -1146,6 +1432,8 @@
     {
         "iso2_id": "UY",
         "name": "Uruguai",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "4.51",
         "health_expenses": "6.93",
         "literacy_rate": "99",
@@ -1154,6 +1442,8 @@
     {
         "iso2_id": "UZ",
         "name": "Uzbequistão",
+        "region": "Ásia",
+        "subregion": "Ásia central",
         "education_expenses": "5.47",
         "health_expenses": "3.03",
         "literacy_rate": "100",
@@ -1162,6 +1452,8 @@
     {
         "iso2_id": "VE",
         "name": "Venezuela",
+        "region": "América",
+        "subregion": "América Latina e Caribe",
         "education_expenses": "1.34",
         "health_expenses": "1.35",
         "literacy_rate": "97.60",
@@ -1170,6 +1462,8 @@
     {
         "iso2_id": "VN",
         "name": "Vietnã",
+        "region": "Ásia",
+        "subregion": "Sudeste da Ásia",
         "education_expenses": "2.89",
         "health_expenses": "1.96",
         "literacy_rate": "96",
@@ -1178,6 +1472,8 @@
     {
         "iso2_id": "VU",
         "name": "Vanuatu",
+        "region": "Oceania",
+        "subregion": "Melanésia",
         "education_expenses": "10.64",
         "health_expenses": "1.21",
         "literacy_rate": "89.10",
@@ -1186,6 +1482,8 @@
     {
         "iso2_id": "WS",
         "name": "Samoa",
+        "region": "Oceania",
+        "subregion": "Polinésia",
         "education_expenses": "6.11",
         "health_expenses": "5.12",
         "literacy_rate": "99.10",
@@ -1194,6 +1492,8 @@
     {
         "iso2_id": "YE",
         "name": "Iêmen",
+        "region": "Ásia",
+        "subregion": "Ásia ocidental  (Oeste da Ásia)",
         "education_expenses": "5.46",
         "health_expenses": "0.43",
         "literacy_rate": "54.10",
@@ -1202,6 +1502,8 @@
     {
         "iso2_id": "ZA",
         "name": "África do Sul",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "6.15",
         "health_expenses": "5.00",
         "literacy_rate": "90",
@@ -1210,6 +1512,8 @@
     {
         "iso2_id": "ZM",
         "name": "Zâmbia",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "3.58",
         "health_expenses": "2.82",
         "literacy_rate": "87.5",
@@ -1218,6 +1522,8 @@
     {
         "iso2_id": "ZW",
         "name": "Zimbábue",
+        "region": "África",
+        "subregion": "África subsaariana",
         "education_expenses": "2.05",
         "health_expenses": "0.91",
         "literacy_rate": "89.85",

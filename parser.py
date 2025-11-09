@@ -5,6 +5,8 @@ from dataclasses import dataclass, asdict
 class Country:
     iso2_id: str
     name: str
+    region: str
+    subregion: str
     education_expenses: float
     health_expenses: float
     literacy_rate: float
@@ -69,6 +71,8 @@ def parse_countries():
         
         iso2_id = country_data['id']['ISO-3166-1-ALPHA-2']
         name = country_data['nome']['abreviado']
+        region = country_data.get("localizacao", {}).get("regiao", {}).get("nome", "Desconhecido")
+        subregion = country_data.get("localizacao", {}).get("sub-regiao", {}).get("nome", "Desconhecido")
 
         print(name)
         
@@ -77,7 +81,7 @@ def parse_countries():
 
         if (check_fields(output)):
             education_expenses, health_expenses, literacy_rate, mortality_rate = extract_recent_data(output)    
-            country_list.append(Country(iso2_id, name, education_expenses, health_expenses, literacy_rate, mortality_rate))
+            country_list.append(Country(iso2_id, name, region, subregion, education_expenses, health_expenses, literacy_rate, mortality_rate))
 
     countries_dict = [asdict(country) for country in country_list]
 
